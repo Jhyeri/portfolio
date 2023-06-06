@@ -22,7 +22,7 @@
 >개발 기간: 2022.12.12 ~ 2023.1.30
 >  
 >기술 스택:  
->Java 11 / Spring Framework / JSP / HTML / CSS / JavaScript 
+>Java 11 / Spring Framework / JSP / HTML / CSS / JavaScript   
 >Mybatis / Oracle DB
 >   
 >[프로젝트 상세 설명](링크첨부) 참고
@@ -34,7 +34,7 @@
 >개발 기간: 2023.02.01 ~ 2022.3.9 ?  
 >  
 >기술 스택:  
->Java 11 / Spring Framework / JSP / HTML / CSS / JavaScript 
+>Java 11 / Spring Framework / JSP / HTML / CSS / JavaScript  
 >Mybatis / Oracle DB
 >  
 >[프로젝트 상세 설명](링크첨부) 참고
