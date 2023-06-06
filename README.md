@@ -23,6 +23,7 @@
 >  
 >기술 스택:  
 >Java 11 / Spring Framework / JSP / HTML / CSS / JavaScript
+>
 >Mybatis / Oracle DB
 >  
 >[프로젝트 상세 설명](링크첨부) 참고
@@ -35,6 +36,7 @@
 >  
 >기술 스택:  
 >Java 11 / Spring Framework / JSP / HTML / CSS / JavaScript
+>
 >Mybatis / Oracle DB
 >  
 >[프로젝트 상세 설명](링크첨부) 참고
