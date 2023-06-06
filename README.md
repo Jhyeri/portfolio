@@ -9,7 +9,7 @@
 </br>
 
 ## :pushpin: Contact (연락처)
-- 이메일: 0106hrs@naver.com
+- 이메일: 0106hrs_@naver.com
 - 블로그: 추가 예정
 - 노션: 추가 예정
 - 깃허브: https://github.com/Jhyeri
