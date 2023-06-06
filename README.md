@@ -10,9 +10,9 @@
 
 ## :pushpin: Contact (연락처)
 - 이메일: 0106hrs@naver.com
-- 블로그: https://ryan-han.com
-- 노션: 노션링크
-- 깃헙: https://github.com/Jhyeri
+- 블로그: 추가 예정
+- 노션: 추가 예정
+- 깃허브: https://github.com/Jhyeri
 
 </br>
 
