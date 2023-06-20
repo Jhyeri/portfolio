@@ -25,7 +25,7 @@
 >Java 11 / Spring Framework 4.0.7 / JSP / HTML / CSS / JavaScript   
 >Mybatis / Oracle DB
 >   
->[프로젝트 상세 설명]((https://github.com/Jhyeri/NaeSaNamSatmp)) 참고
+>[프로젝트 상세 설명](https://github.com/Jhyeri/NaeSaNamSatmp)) 참고
  
 ---
 
