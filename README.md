@@ -17,7 +17,7 @@
 </br>
 
 ## :pushpin: Projects (프로젝트)
-### 1. [내사남사]([링크추가예정](https://github.com/Jhyeri/NaeSaNamSatmp.git))
+### 1. [내사남사]([링크추가예정]())
 > 중고거래 플랫폼 사이트 (팀 프로젝트)  
 >개발 기간: 2022.12.12 ~ 2023.1.30
 >  
@@ -25,7 +25,7 @@
 >Java 11 / Spring Framework 4.0.7 / JSP / HTML / CSS / JavaScript   
 >Mybatis / Oracle DB
 >   
->[프로젝트 상세 설명](링크첨부) 참고
+>[프로젝트 상세 설명]((https://github.com/Jhyeri/NaeSaNamSatmp)) 참고
  
 ---
 
