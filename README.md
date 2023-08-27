@@ -11,7 +11,7 @@
 ## :pushpin: Contact (연락처)
 - Email: 0106hrs_@naver.com
 - Notion: [Notion 확인하기](https://snow-lifter-a27.notion.site/Study-d28c1ad8ca5d46d59d75339bc0b989da?pvs=4)
-- Github: https://github.com/Jhyeri
+- Github: [Github 확인하기](https://github.com/Jhyeri)
 
 </br>
 
