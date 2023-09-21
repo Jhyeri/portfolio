@@ -34,7 +34,7 @@
 >개발 기간: 2022.12.12 ~ 2023.01.30
 >  
 >기술 스택:  
->Java 11 / Spring Framework 4.0.7 / JSP / HTML / CSS / JavaScript   
+>Java 11 / Spring Framework / JSP / HTML / CSS / JavaScript   
 >Mybatis / Oracle
 >   
 >[프로젝트 상세 설명](https://github.com/Jhyeri/NaeSaNamSa) 참고
